@@ -4,7 +4,7 @@
 }
 
 .row-content{
-    margin: 0px auto;
+    margin: 30px auto;
     padding: 0px 0px 0px 0px;
     border-bottom: 1px ridge;
 }
@@ -47,3 +47,5 @@ address{
  .navbar-dark{
      background-color: #512DAB;
  }
+
+
